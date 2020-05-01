@@ -1,5 +1,7 @@
 {
   "name": "@opengamestack-svelte/logo",
+  "description": "Open Game Stack custom AWS CDK construct for setting up static websites",
+  "version": "1.0.0",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -11,6 +13,14 @@
   "author": {
     "name": "Open Game Stack",
     "url": "https://opengamestack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opengamestack/svelte"
+  },
+  "homepage": "https://github.com/opengamestack/svelte",
+  "bugs": {
+    "url": "https://github.com/opengamestack/svelte/issues"
   },
   "keywords": [
     "svelte"
